@@ -31,6 +31,8 @@ Optimizer: Adam
 Loss function: Cross-Entropy
 Training-Validation-Test Split: 70%-15%-15%
 Early stopping & custom weight initialization
+<img width="673" height="239" alt="image" src="https://github.com/user-attachments/assets/75242a00-d1ff-48a9-9afa-bab18e57d195" />
+
 
 ## Results
 Overall Accuracy: 69%
